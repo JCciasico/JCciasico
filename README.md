@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Developing
 - 🌱 I’m currently learning Web Developing and Game Developing
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ciasicofamily28@gmail.com
+- 📫 How to reach me carlociasico01@gmail.com
 
 <!---
 JCciasico/JCciasico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
