@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @John Carlo Ciasico
 - 👀 I’m interested in Web Developing
 - 🌱 I’m currently learning Vue js, Bootstrap, Javascript and Axios
-- Been make project on Vue
+- 💻 Been make project on Vue
 - 💞️ I’m looking for a collaboration
 - 📫 How to reach me carlociasico01@gmail.com
 
