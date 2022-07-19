@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @John Carlo Ciasicos
+- 👋 Hi, I’m @John Carlo Ciasico
 - 👀 I’m interested in Web Developing
 - 🌱 I’m currently learning Vue js, Bootstrap, Javascript, Axios and PHP
 - 💻 Been make project on Vue and PHP
