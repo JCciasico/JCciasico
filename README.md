@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JCciasico
+- 👋 Hi, I’m @John Carlo Ciasico
 - 👀 I’m interested in Web Developing
 - 🌱 I’m currently learning Web Developing
 - 💞️ I’m looking for a collaboration
