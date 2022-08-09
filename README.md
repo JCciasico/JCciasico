@@ -4,6 +4,7 @@
 - 💻 Been make project on Vue and PHP
 - 💞️ I’m looking for a collaboration
 - 📫 How to reach me carlociasico01@gmail.com
+- 🌐 My Personal [Portfolio](https://my-portfolio-jcciasico.vercel.app/) 
 
 <!---
 JCciasico/JCciasico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
