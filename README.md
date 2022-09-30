@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Vue js, React, Bootstrap, Javascript and PHP
 - 💻 Been make project on Vue and PHP
 - 💞️ I’m looking for a collaboration
-- 📫 How to reach me carlociasico01@gmail.com
+- 📫 How to reach me carlociasico01@gmail.com or ciasico.carlo@gmail.com
 - 🌐 My Personal [Portfolio](https://my-portfolio-jcciasico.vercel.app/) 
 
 <!---
