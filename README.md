@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
 
-<div align="center">🌱 I’m currently learning Vue, React, Angular, Bootstrap, Javascript, Typescript and PHP<br><br>👨‍💻 All of my projects are available at My [Portfolio](https://my-portfolio-jcciasico.vercel.app/) <br><br>📫 How to reach me ciasico.carlo@gmail.com<br><br>📄 Know about my experiences [Resume](https://drive.google.com/file/d/1JSUAxty3alRbcp3toqJ6KxR4EPS1KkLa/view?usp=sharing) <div>
+<div align="center"><p>🌱 I’m currently learning Vue, React, Angular, Bootstrap, Javascript, Typescript and PHP</p><br><br><p>👨‍💻 All of my projects are available at My [Portfolio](https://my-portfolio-jcciasico.vercel.app/)</p> <br><br>📫 How to reach me ciasico.carlo@gmail.com<br><br>📄 Know about my experiences [Resume](https://drive.google.com/file/d/1JSUAxty3alRbcp3toqJ6KxR4EPS1KkLa/view?usp=sharing) <div>
 
 
 # 💻 Tech Stack:
