@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm John Carlo Ciasico</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jcciasico&label=Profile%20views&color=0e75b6&style=flat" alt="jcciasico" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jcciasico" alt="jcciasico" /></a> </p>
-
 - 🌱 I’m currently learning **Vue, React, Angular, Bootstrap, Javascript, Typescript and PHP**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://my-portfolio-jcciasico.vercel.app/) 
