@@ -1,4 +1,4 @@
-# <h1>Hi, Im John Carlo Ciasico</h1>
+# <h1>Hi 👋, Im John Carlo Ciasico</h1>
 
 🌱 I’m currently learning Vue, React, Angular, Bootstrap, Javascript, Typescript and PHP<br><br>👨‍💻 All of my projects are available at My [Portfolio](https://my-portfolio-jcciasico.vercel.app/) <br><br>📫 How to reach me ciasico.carlo@gmail.com<br><br>📄 Know about my experiences [Resume](https://drive.google.com/file/d/1JSUAxty3alRbcp3toqJ6KxR4EPS1KkLa/view?usp=sharing)
 
