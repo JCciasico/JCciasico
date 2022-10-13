@@ -1,6 +1,6 @@
 # <h1>Hi, Im John Carlo Ciasico</h1>
 
-🌱 I’m currently learning Vue, React, Angular, Bootstrap, Javascript, Typescript and PHP<br><br>👨‍💻 All of my projects are available at My Portfolio<br><br>📫 How to reach me ciasico.carlo@gmail.com<br><br>📄 Know about my experiences Resume
+🌱 I’m currently learning Vue, React, Angular, Bootstrap, Javascript, Typescript and PHP<br><br>👨‍💻 All of my projects are available at My [Portfolio](https://my-portfolio-jcciasico.vercel.app/) <br><br>📫 How to reach me ciasico.carlo@gmail.com<br><br>📄 Know about my experiences [Resume](https://drive.google.com/file/d/1JSUAxty3alRbcp3toqJ6KxR4EPS1KkLa/view?usp=sharing)
 
 
 # 💻 Tech Stack:
@@ -10,7 +10,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JCciasico&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JCciasico&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
