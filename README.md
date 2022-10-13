@@ -7,11 +7,12 @@
 
 - 🌱 I’m currently learning **Vue, React, Angular, Bootstrap, Javascript, Typescript and PHP**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-jcciasico.vercel.app/](https://my-portfolio-jcciasico.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://my-portfolio-jcciasico.vercel.app/) 
+
 
 - 📫 How to reach me **ciasico.carlo@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JSUAxty3alRbcp3toqJ6KxR4EPS1KkLa/view?usp=sharing](https://drive.google.com/file/d/1JSUAxty3alRbcp3toqJ6KxR4EPS1KkLa/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1JSUAxty3alRbcp3toqJ6KxR4EPS1KkLa/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
