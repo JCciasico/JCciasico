@@ -3,7 +3,7 @@
 
 
 <!-- 🌱 I’m currently learning Vue, React, Bootstrap, Javascript, Typescript and PHP<br> -->
-<br>👨‍💻 All of my projects are available at My [Portfolio](https://my-portfolio-jcciasico.vercel.app/)<br><br>📫 How to reach me ciasico.carlo@gmail.com<br><br>📄
+<br>👨‍💻 All of my projects are available at My [Portfolio](https://my-portfolio-jcciasico.vercel.app/)<br><br>📫 How to reach me ciasico.carlo@gmail.com<br><br>📄carlociasico01@gmail.com
 
 
 
